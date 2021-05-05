@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-reviews-slider/static/css/main.c18214a1.chunk.css",
+    "main.js": "/react-reviews-slider/static/js/main.f108c3d3.chunk.js",
+    "main.js.map": "/react-reviews-slider/static/js/main.f108c3d3.chunk.js.map",
+    "runtime-main.js": "/react-reviews-slider/static/js/runtime-main.c69a5980.js",
+    "runtime-main.js.map": "/react-reviews-slider/static/js/runtime-main.c69a5980.js.map",
+    "static/js/2.2649e979.chunk.js": "/react-reviews-slider/static/js/2.2649e979.chunk.js",
+    "static/js/2.2649e979.chunk.js.map": "/react-reviews-slider/static/js/2.2649e979.chunk.js.map",
+    "index.html": "/react-reviews-slider/index.html",
+    "static/css/main.c18214a1.chunk.css.map": "/react-reviews-slider/static/css/main.c18214a1.chunk.css.map",
+    "static/js/2.2649e979.chunk.js.LICENSE.txt": "/react-reviews-slider/static/js/2.2649e979.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69a5980.js",
+    "static/js/2.2649e979.chunk.js",
+    "static/css/main.c18214a1.chunk.css",
+    "static/js/main.f108c3d3.chunk.js"
+  ]
+}
